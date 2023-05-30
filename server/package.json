@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-statvfs": "^0.0.2"
+  }
+}
